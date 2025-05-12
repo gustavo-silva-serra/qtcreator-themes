@@ -35,3 +35,8 @@ Quiet colors to try to keep the madness away
 
 ![RetroRain Preview](screenshots/retrorain.png)
 
+### WoodElf
+
+Earthy colors for that special Friday
+
+![WoodElf Preview](screenshots/woodelf.png)
